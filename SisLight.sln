@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisLight", "SisLight\SisLight.csproj", "{0C477CA8-C4AF-47FB-913E-42788A56DACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C477CA8-C4AF-47FB-913E-42788A56DACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C477CA8-C4AF-47FB-913E-42788A56DACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C477CA8-C4AF-47FB-913E-42788A56DACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C477CA8-C4AF-47FB-913E-42788A56DACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2B46A7-7764-460F-8DB9-08249C8FBBC4}
+	EndGlobalSection
+EndGlobal
